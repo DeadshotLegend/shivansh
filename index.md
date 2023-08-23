@@ -17,3 +17,11 @@ I am Shivansh Goel, I am 15 years old and a Junior. I enjoy coding, playing spor
 - I know python programming at a decent skill level, learned from AP CSP Last year
 - I know Java programming at a decent skill level, have experience form udemy coures and online youtube courses.
 - Profecient skill use in github and managing repositories and knowledegab on the different actions possible on github.
+
+### Tools that I know how to use
+- Github
+- Vscode
+- Youtube
+- Docker
+- AWS
+- Laptop
