@@ -2,14 +2,18 @@
 layout: default
 title: Student Blog
 ---
+![messi](https://github.com/DeadshotLegend/shivansh/assets/49130076/b529c222-416e-4f7b-8433-47533d91cdad)
+
+# Home Page of Shivansh Goal Repository for APCSA
+
+### About me
+I am Shivansh Goel, I am 15 years old and a Junior. I enjoy coding, playing sports, watching sports, and playing video games.
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+### Picture of Me
+![WIN_20230823_10_37_28_Pro](https://github.com/DeadshotLegend/shivansh/assets/49130076/2fd5bd1b-c0a8-4da3-a2b6-d657cb5c57e2)
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+### Skills That I know
+- I know python programming at a decent skill level, learned from AP CSP Last year
+- I know Java programming at a decent skill level, have experience form udemy coures and online youtube courses.
+- Profecient skill use in github and managing repositories and knowledegab on the different actions possible on github.
