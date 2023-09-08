@@ -35,4 +35,3 @@ type: hacks
 # [Link To Our API Table 2](https://rssports.github.io/cards)
 
 # Using ChatGPT To Debug Errors:
-![image](https://github.com/raunak2007/csa-pages/assets/41299387/ba041fba-d9b1-4536-adeb-9d8273a1fbbd)
