@@ -35,7 +35,7 @@ Tailing CSS
 Put it into Flask Projects
 Twice as Beautiful in half the time
 
-Top 10 tools for SOftware ENgineering for Python and Flask
+Top 10 tools for Software ENgineering for Python and Flask
 
 
 Keep up with all the new tools which keeps making databases very simple.
