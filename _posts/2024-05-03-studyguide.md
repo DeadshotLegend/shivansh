@@ -76,5 +76,5 @@ type: hacks
 | AP Computer Science A Section   | Timing | Number of Questions | Percent of Exam Score  | 
 | -------- | ------- | -------- | ------- |
 | Multiple-Choice  | 90 minutes    | 40 multiple-choice questions | 50%  |
-| Free Response | 90 minutes     | 1 Methods and Control Structures question1 Class question 1 Array/ArrayList question 1 2DArray question|  |
+| Free Response | 90 minutes     | 1 Methods and Control Structures question1 Class question 1 Array/ArrayList question 1 2DArrayquestion|  |
 | Total    | 3 hours    |  44 |  100% |
