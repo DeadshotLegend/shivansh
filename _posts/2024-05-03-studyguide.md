@@ -9,48 +9,51 @@ type: hacks
 ---
 
 
-### Unit 1: Primitive Types
-- Data Types: Understand primitive data types (int, double, char, boolean).
-- Variables and Constants: Know how to declare variables and constants.
-- Operators: Familiarize yourself with arithmetic, relational, logical, and assignment operators.
-- Type Casting: Understand implicit and explicit type casting.
+### Unit 1: Primitive Types (2.5 - 5% of the exam score)
+- Primitive data types including int, double, and Boolean
+- Evaluating arithmetic expressions in program code
+- Using assignment operators to produce a value
+- How variables and operators are sequenced and combined in an expression to create a result
 
-### Unit 2: Using Objects
-- Classes and Objects: Understand the concepts of classes and objects.
-- Constructors: Know how to create constructors and initialize object properties.
-- Methods: Learn how to define methods and call them on objects.
-- Encapsulation: Understand encapsulation and access modifiers (public, private, protected).
+### Unit 2: Using Objects ( 5%–7.5% of the exam score )
+- Objects and classes as ways to describe instances, attributes, and behaviors
+- Creating objects by calling constructors with and without parameters
+- Utilizing class libraries, including Integer and Double
+- Defining an object’s behavior using methods, including static and Math class
+- Calling non-static void methods with and without parameters
+- Using String objects and methods
 
 ### Unit 3: Boolean Expressions and If Statements
-- Boolean Expressions: Learn how to evaluate boolean expressions.
-- If Statements: Understand the syntax and use of if, else if, and else statements.
-- Nested If Statements: Know how to use nested if statements for complex conditions.
-- Switch Statements: Familiarize yourself with the switch statement for multiway branching.
+- Finding Boolean values with expressions involving relational operators
+- Using conditional statements to execute different statements based on input values
+- Building on conditional statements to create multiple possible outcomes
+- Creating the same value using equivalent Boolean expressions
 
 ### Unit 4: Iteration
-- While Loops: Understand the syntax and use of while loops.
-- For Loops: Know how to use for loops for iteration.
-- Nested Loops: Learn how to use nested loops for multiple iterations.
-- Loop Control Statements: Understand break and continue statements for loop control.
+Creating a loop to run an expression repeatedly until certain conditions are met
+Standard arithmetic-based and String algorithms
+Representing iterative processes in code using for and while loops
+Nesting loop and iteration statements
 
 ### Unit 5: Writing Classes
-- Instance Variables: Know how to declare and initialize instance variables.
-- Methods: Understand how to define methods to manipulate object state.
-- Constructors: Learn how to create constructors to initialize object properties.
-- Static Variables and Methods: Understand the concept of static members in a class.
+The makeup of a class, including whether attributes are public or private
+Setting an object’s attributes using constructors
+Using comments to describe the functionality of code
+Defining behaviors of an object using non-void, void, and static methods
+Where variables can be used in program code
+Breaking problems into smaller parts by creating methods to solve individual subproblems
 
 ### Unit 6: Arrays
-- Array Basics: Understand how to declare, initialize, and access elements in arrays.
-- Array Length: Know how to find the length of an array.
-- Traversing Arrays: Learn how to traverse arrays using loops.
-- Enhanced for loops for Arrays
-- Array Algorithms: developing algorithms using arrays
+Representing multiple related items as array objects
+Traversing an array by accessing the elements using iteration statements
+Standard algorithms that utilize array traversals to perform functions
 
 ### Unit 7: Array Lists
-- ArrayList Basics: Understand how to declare, create, and manipulate ArrayLists.
-- ArrayList Methods: Familiarize yourself with common ArrayList methods (add, remove, get, set).
-- Traversing ArrayLists: Know how to traverse ArrayLists using loops.
-- ArrayList Algorithms: Understand common ArrayList algorithms 
+Representing collections of related object reference data using ArrayList objects
+Traversing an ArrayList by accessing the elements using iteration statements
+Standard algorithms that utilize ArrayList traversals to perform functions
+Searching and sorting using standard algorithms
+Ethical issues around data collections
 
 ### Unit 8: 2D Arrays
 - 2D Array Basics: Understand how to declare, create, and access elements in 2D arrays.
@@ -62,6 +65,7 @@ type: hacks
 - Superclass and Subclass: Know how to create superclasses and subclasses.
 - Method Overriding: Understand how to override methods in subclasses.
 - Inheritance Hierarchies: Familiarize yourself with inheritance hierarchies and the Object class.
+- Associating subclass objects with superclasses to create polymorphism
 
 ### Unit 10: Recursion
 - Recursion methods
@@ -76,5 +80,5 @@ type: hacks
 | AP Computer Science A Section   | Timing | Number of Questions | Percent of Exam Score  | 
 | -------- | ------- | -------- | ------- |
 | Multiple-Choice  | 90 minutes    | 40 multiple-choice questions | 50%  |
-| Free Response | 90 minutes     | 1 Methods and Control Structures question1 Class question 1 Array/ArrayList question 1 2DArrayquestion|  |
+| Free Response | 90 minutes     | - 1 Methods and Control Structures question - 1 Class question  - 1 Array/ArrayList question - 1 2DArrayquestion| 50% |
 | Total    | 3 hours    |  44 |  100% |
