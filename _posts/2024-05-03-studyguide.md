@@ -7,7 +7,17 @@ description: Complete Study Guide Checklist for all the important topics in ever
 courses: { csa: {week: 26} }
 type: hacks
 ---
-
+Best Study links for the different Units:
+- Unit 1: 
+- Unit 2:
+- Unit 3:
+- Unit 4:
+- Unit 5:
+- Unit 6:
+- Unit 7: https://deadshotlegend.github.io/shivansh/2024/04/22/unit-7-student_IPYNB_2_.html
+- Unit 8:
+- Unit 9:
+- Unit 10:
 
 ### Unit 1: Primitive Types (2.5 - 5% of the exam score)
 - Primitive data types including int, double, and Boolean
